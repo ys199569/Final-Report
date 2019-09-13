@@ -7,6 +7,6 @@ Submit your group's final project report here
 * Introduction \& (light) Literature Review
 * Empirical Strategy (methods, data, preprocessing, etc.)
 * Analysis \& Results
-	\item Discussion
-	\item Conclusion \\
+* Discussion
+* Conclusion \\
 \end{itemize}

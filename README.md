@@ -5,8 +5,8 @@ Submit your group's final project report here
 	
 * Title Page and Contribution Statement (listing all group members and their roles in the project; note that by typing your name on the project, you agree that you contributed \textit{equally} to the project)
 * Introduction \& (light) Literature Review
-	\item Empirical Strategy (methods, data, preprocessing, etc.)
-	\item Analysis \& Results
+* Empirical Strategy (methods, data, preprocessing, etc.)
+* Analysis \& Results
 	\item Discussion
 	\item Conclusion \\
 \end{itemize}

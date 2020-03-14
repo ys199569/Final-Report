@@ -27,4 +27,4 @@
 * Glaser, Wright, Do, Jo, Cao
 * Cinar, Cuppernull, Harrison, Mallon
 * Bertoldi, Ghanta, Gill, Shah
-* Battisha, Bhavani
+* **Battisha, Bhavani** -> Winner of *both* award categories. Congratulations!

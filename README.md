@@ -28,3 +28,7 @@
 * Cinar, Cuppernull, Harrison, Mallon
 * Bertoldi, Ghanta, Gill, Shah
 * **Battisha, Bhavani** -> Winner of *both* award categories. Congratulations!
+
+# Grade and Feedback
+
+All grades are posted in Canvas and feedback is sent directly to each group via email. Let me know if you have questions.

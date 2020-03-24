@@ -12,23 +12,14 @@
 
 # Final Presentation Schedule
 
-### Monday, 3/9: Presentations, Day 1
+### Day 1
 
-* Li, Liu, Zhang, Zhou
-* Karsten, Max, Turkcapar
-* Yang, Wei
-* Kim, Minami, Feng, Song
-* Sun, Yin, Yuan
-* Suchak, Rangwani, Ansehl, Carrion
+* 
 
-### Wednesday, 3/11: Presentations, Day 2
+### Day 2
 
-* Liu, Luo, Yang
-* Glaser, Wright, Do, Jo, Cao
-* Cinar, Cuppernull, Harrison, Mallon
-* Bertoldi, Ghanta, Gill, Shah
-* **Battisha, Bhavani** -> Winner of *both* award categories. Congratulations!
+* 
 
 # Grade and Feedback
 
-All grades are posted in Canvas and feedback is sent directly to each group via email. Let me know if you have questions.
+All grades will be posted in Canvas and feedback will be sent directly to each group via email.
